@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\PYTHON\.metadata\.plugins\org.eclipse.core.resources\.projects\Ex01\com.python.pydev.analysis\v2_indexcache
+ex3_1|1655277781572248000|C:\PYTHON\Ex01\ex3_1.py
+ex3_2|1655277786170907000|C:\PYTHON\Ex01\ex3_2.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=ex3_1
+1=C:\PYTHON\Ex01\ex3_1.py
+-- END DICTIONARY
+-- START TREE 1
+3
+coi|1|coin_types!1^19#1*19@
+cou|1|count!1^16#1*19@
+n|1|n!1^15#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
