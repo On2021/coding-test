@@ -12,7 +12,7 @@ Created on 2022. 7. 6.
 from collections import deque
 
 # BFS 함수 정의
-def bfs(graph, start, visited): 
+def bfs(graph, start, visited): # 괄호 안에 있는 것은 내가 이 함수를 쓸때 앞으로 3가지 변수를 받겠다란 의미임
     # 큐(Queue) 구현을 위해 deque 라이브러리 사용
     queue = deque([start]) # 시작노드를 큐에 넣어줍니다.
     # 현재 노드를 방문 처리
